@@ -9,11 +9,11 @@
 	
 	<name>maven-web-application</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>Test Web Project for Java Project</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>SRIT India</name>
+		<url>www.sritindia.com/</url>
 	</organization>
 
 	<properties>
